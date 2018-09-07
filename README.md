@@ -1,10 +1,2 @@
 # Community Content
-
-## How to submit content for publication
-
-## Published Content
-
-| Resource Name  | Author | Source Link |  Kata Page |
-| ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | [Content Cell]()  | [Content Cell]()  |
-| Content Cell  | Content Cell  | [Content Cell]() | [Content Cell]()  |
+Details and structure of this repository will develop over the next few months as we move content from [Kata](http://kata.coderdojo.com) to here.
